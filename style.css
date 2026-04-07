@@ -14,3 +14,16 @@ body{
     background:#417aa8;
     color:#fff;
 }
+.jarak{
+    padding:0 2pc;
+}
+.menu{ 
+    background_color:#417aa8;
+    height:50px;
+    line-height:50px;
+    position:relative;
+    width:90%;
+    margin:0auto;
+    padding:0 auto;
+}
+    
